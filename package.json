@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "Jeroen Vormer"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VormerICT/FirstRepo"
+  },
+  "name": "FirstRepo",
+  "version": "0.0.1",
+  "description": "Just a new Repo for testing with OutSystems",
+  "cordova": {
+    "id": "firstrepo",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "firebase",
+    "push",
+    "notifications"
+  ]
+}
